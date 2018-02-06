@@ -15,4 +15,5 @@
         android:text="show location"
         android:layout_gravity="center"/>
 
+
 </LinearLayout>
