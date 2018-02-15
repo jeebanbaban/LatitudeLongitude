@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         1);
             }
         }
+
         dialog.setTitle("Location");
         dialog.setMessage("Getting location...");
         dialog.show();
